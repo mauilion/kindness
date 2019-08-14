@@ -1,0 +1,4 @@
+quay.io/mauilion/dind:master
+alpine:3.7
+nginx:stable
+bash:5
